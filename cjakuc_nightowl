@@ -639,3 +639,18 @@ span.rm-page-ref[data-tag='Practice'], span[data-link-title^='Practice'] .rm-pag
   color: #CCCC00 !important;
   font-weight: 600;
 }
+span.rm-page-ref[data-tag='Statistics'], span[data-link-title^='Statistics'] .rm-page-ref  {
+  color: white !important;
+}
+span.rm-page-ref[data-tag='Visualizations'], span[data-link-title^='Visualizations'] .rm-page-ref  {
+  color: white !important;
+}
+span.rm-page-ref[data-tag='SQL'], span[data-link-title^='SQL'] .rm-page-ref  {
+  color: white !important;
+}
+span.rm-page-ref[data-tag='MLE'], span[data-link-title^='MLE'] .rm-page-ref  {
+  color: white !important;
+}
+span.rm-page-ref[data-tag='Other'], span[data-link-title^='Other'] .rm-page-ref  {
+  color: white !important;
+}
